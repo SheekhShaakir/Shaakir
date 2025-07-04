@@ -89,7 +89,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    Create a `config.env` file and add the following lines:
 
    ```sh
-   SESSION_ID=Shaakir_bot
+   SESSION_ID=
    PREFIX=.
    STICKER_PACKNAME=LyFE
    ALWAYS_ONLINE=false
