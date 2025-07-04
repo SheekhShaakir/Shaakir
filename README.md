@@ -89,7 +89,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    Create a `config.env` file and add the following lines:
 
    ```sh
-   SESSION_ID=your_session_id_here
+   SESSION_ID=Shaakir_bot
    PREFIX=.
    STICKER_PACKNAME=LyFE
    ALWAYS_ONLINE=false
@@ -101,7 +101,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    BRAINSHOP=159501,6pq8dPiYt7PdqHz3
    MAX_UPLOAD=200
    REJECT_CALL=false
-   SUDO=989876543210
+   SUDO=252617313335
    TZ=Asia/Kolkata
    VPS=true
    AUTO_STATUS_VIEW=true
